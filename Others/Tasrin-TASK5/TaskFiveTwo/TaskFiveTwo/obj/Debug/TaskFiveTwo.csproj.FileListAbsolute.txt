@@ -1,8 +1,0 @@
-D:\DotNet\TaskFiveTwo\TaskFiveTwo\bin\Debug\TaskFiveTwo.exe.config
-D:\DotNet\TaskFiveTwo\TaskFiveTwo\bin\Debug\TaskFiveTwo.exe
-D:\DotNet\TaskFiveTwo\TaskFiveTwo\bin\Debug\TaskFiveTwo.pdb
-D:\DotNet\TaskFiveTwo\TaskFiveTwo\obj\Debug\TaskFiveTwo.exe
-D:\DotNet\TaskFiveTwo\TaskFiveTwo\obj\Debug\TaskFiveTwo.pdb
-D:\internship\TASRIN-TASK5\TaskFiveTwo\TaskFiveTwo\bin\Debug\TaskFiveTwo.exe.config
-D:\internship\TASRIN-TASK5\TaskFiveTwo\TaskFiveTwo\obj\Debug\TaskFiveTwo.exe
-D:\internship\TASRIN-TASK5\TaskFiveTwo\TaskFiveTwo\obj\Debug\TaskFiveTwo.pdb

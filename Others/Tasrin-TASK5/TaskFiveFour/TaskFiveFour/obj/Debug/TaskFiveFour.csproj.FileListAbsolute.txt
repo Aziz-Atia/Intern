@@ -1,5 +1,0 @@
-D:\DotNet\TaskFiveFour\TaskFiveFour\bin\Debug\TaskFiveFour.exe.config
-D:\DotNet\TaskFiveFour\TaskFiveFour\bin\Debug\TaskFiveFour.exe
-D:\DotNet\TaskFiveFour\TaskFiveFour\bin\Debug\TaskFiveFour.pdb
-D:\DotNet\TaskFiveFour\TaskFiveFour\obj\Debug\TaskFiveFour.exe
-D:\DotNet\TaskFiveFour\TaskFiveFour\obj\Debug\TaskFiveFour.pdb

@@ -1,0 +1,13 @@
+F:\InternWork\Atia_Task5_Part2\Task5Average\bin\Debug\netcoreapp3.1\Task5Average.exe
+F:\InternWork\Atia_Task5_Part2\Task5Average\bin\Debug\netcoreapp3.1\Task5Average.deps.json
+F:\InternWork\Atia_Task5_Part2\Task5Average\bin\Debug\netcoreapp3.1\Task5Average.runtimeconfig.json
+F:\InternWork\Atia_Task5_Part2\Task5Average\bin\Debug\netcoreapp3.1\Task5Average.runtimeconfig.dev.json
+F:\InternWork\Atia_Task5_Part2\Task5Average\bin\Debug\netcoreapp3.1\Task5Average.dll
+F:\InternWork\Atia_Task5_Part2\Task5Average\bin\Debug\netcoreapp3.1\Task5Average.pdb
+F:\InternWork\Atia_Task5_Part2\Task5Average\obj\Debug\netcoreapp3.1\Task5Average.csprojAssemblyReference.cache
+F:\InternWork\Atia_Task5_Part2\Task5Average\obj\Debug\netcoreapp3.1\Task5Average.AssemblyInfoInputs.cache
+F:\InternWork\Atia_Task5_Part2\Task5Average\obj\Debug\netcoreapp3.1\Task5Average.AssemblyInfo.cs
+F:\InternWork\Atia_Task5_Part2\Task5Average\obj\Debug\netcoreapp3.1\Task5Average.csproj.CoreCompileInputs.cache
+F:\InternWork\Atia_Task5_Part2\Task5Average\obj\Debug\netcoreapp3.1\Task5Average.dll
+F:\InternWork\Atia_Task5_Part2\Task5Average\obj\Debug\netcoreapp3.1\Task5Average.pdb
+F:\InternWork\Atia_Task5_Part2\Task5Average\obj\Debug\netcoreapp3.1\Task5Average.genruntimeconfig.cache
