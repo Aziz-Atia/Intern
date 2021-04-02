@@ -1,0 +1,54 @@
+.avatar {
+  vertical-align: left;
+  width: 100px;
+  height: 150px;
+  border-radius: 50%;
+}
+h1{
+	border-left: 5px solid black;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+h2{
+	border-left: 5px solid black;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+body{
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-vintage-kraft-paper-texture-background-paperretronostalgictexturetexturetexturematerialbackgroundsketchpad-image_84000.jpg");
+	background-size: cover;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-blend-mode: darken;
+
+}
+
+p{
+
+	font-size: 16px;
+}
+.button{
+	background-color: #BDB76B;
+	border:none;
+	padding: 12px 29px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	color: white;
+}
+
+     .navbar a{
+       	  float: none;
+		  padding: 12px;
+		  color: wheat;
+		  text-decoration: none;
+		  font-size: 17px;
+		  width: 20%; 
+		  text-align: center;
+      }
+	  .h5 {
+	  	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; color:white;"
+	  }
+}
